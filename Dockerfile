@@ -18,8 +18,7 @@ WORKDIR /usr/src/minetrack
 COPY . .
 
 # build minetrack
-RUN npm install --build-from-source \
- && npm run build
+RUN npm install && npm run build
 
 # run as non root
 RUN addgroup --gid 10043 --system minetrack \
