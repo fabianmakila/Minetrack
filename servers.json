@@ -1,12 +1,32 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "Realmi",
+		"ip": "realmi.fi",
 		"type": "PC"
 	},
 	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
+		"name": "Quut.io",
+		"ip": "mc.quut.io",
 		"type": "PC"
-	}
+	},
+	{
+		"name": "Motimaa",
+		"ip": "motimaa.net",
+		"type": "PC"
+	},
+	{
+		"name": "HerbaCraft",
+		"ip": "herbacraft.net",
+		"type": "PC"
+	},
+	{
+		"name": "School of Gaming",
+		"ip": "mc.sog.gg",
+		"type": "PC"
+	},
+	{
+		"name": "WAE Peruna",
+		"ip": "peruna.wae.fi",
+		"type": "PC"
+	},
 ]
