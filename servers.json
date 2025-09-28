@@ -28,5 +28,60 @@
 		"name": "WAE Peruna",
 		"ip": "peruna.wae.fi",
 		"type": "PC"
+	},
+	{
+		"name": "Sarastus",
+		"ip": "pelaa.sarastus.net",
+		"type": "PC"
+	},
+	{
+		"name": "True Worlds",
+		"ip": "trueworlds.net",
+		"type": "PC"
+	},
+	{
+		"name": "Karanteeni",
+		"ip": "mc.karanteeni.net",
+		"type": "PC"
+	},
+	{
+		"name": "SlinkonCraft",
+		"ip": "slinkoncraft.net",
+		"type": "PC"
+	},
+	{
+		"name": "FlexPlex",
+		"ip": "mc.flexplex.fi",
+		"type": "PC"
+	},
+	{
+		"name": "Seikkailumaa",
+		"ip": "mc.seikkailumaa.net",
+		"type": "PC"
+	},
+	{
+		"name": "Finprison",
+		"ip": "finprison.net",
+		"type": "PC"
+	},
+	{
+		"name": "2B2T Finland",
+		"ip": "2b2t.fi",
+		"type": "PC"
+	},
+	{
+		"name": "Xeno",
+		"ip": "mc.xeno.fi",
+		"type": "PC"
+	},
+	{
+		"name": "Jonttucraft",
+		"ip": "mc.jonttucraft.com",
+		"type": "PC"
+	},
+	{
+		"name": "Tehomaa",
+		"ip": "tehocraft.fi",
+		"type": "PC"
 	}
 ]
