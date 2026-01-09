@@ -83,5 +83,10 @@
 		"name": "Tehomaa",
 		"ip": "tehocraft.fi",
 		"type": "PC"
+	},
+	{
+		"name": "WildyCraft",
+		"ip": "wildycraft.fi",
+		"type": "PC"
 	}
 ]
