@@ -1,4 +1,9 @@
 [
+  {
+		"name": "FabiCraft",
+		"ip": "fabicraft.net",
+		"type": "PC"
+	},
 	{
 		"name": "Realmi",
 		"ip": "realmi.fi",
